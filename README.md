@@ -4,5 +4,5 @@
 - Copy of Crowdsourced Attributes_2 - Split the "Shop" column into "Temporary Shop" and "Permanent Shop" columns. 
 - Copy of Crowdsourced Attributes_3 - Dropped the column "Shop". Dropped the column "Traffic" and used "Moving_vehicles" as replacement. 
 - Copy of Crowdsourced Attributes_4 - Added a new column "Religion" 
-- Copy of Crowdsourced Attributes_5 - Replaced the column "Parked_Vehicles" with "Parking_areas" and "Moving_vehicles" with "Few_or_no_Vehicles". Dropped the column "Religion". 
+- Copy of Crowdsourced Attributes_5 - Replaced the column "Parked_Vehicles" with "Parking_areas" and "Moving_vehicles" with "Few_or_no_Vehicles".  
 
